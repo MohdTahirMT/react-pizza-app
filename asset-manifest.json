@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-pizza-app/static/css/main.7ffafd39.chunk.css",
-    "main.js": "/react-pizza-app/static/js/main.f7aa392b.chunk.js",
-    "main.js.map": "/react-pizza-app/static/js/main.f7aa392b.chunk.js.map",
+    "main.css": "/react-pizza-app/static/css/main.0d7de669.chunk.css",
+    "main.js": "/react-pizza-app/static/js/main.bd25c0a4.chunk.js",
+    "main.js.map": "/react-pizza-app/static/js/main.bd25c0a4.chunk.js.map",
     "runtime-main.js": "/react-pizza-app/static/js/runtime-main.4f79ce3e.js",
     "runtime-main.js.map": "/react-pizza-app/static/js/runtime-main.4f79ce3e.js.map",
     "static/js/2.1387ddc6.chunk.js": "/react-pizza-app/static/js/2.1387ddc6.chunk.js",
     "static/js/2.1387ddc6.chunk.js.map": "/react-pizza-app/static/js/2.1387ddc6.chunk.js.map",
     "index.html": "/react-pizza-app/index.html",
-    "static/css/main.7ffafd39.chunk.css.map": "/react-pizza-app/static/css/main.7ffafd39.chunk.css.map",
+    "static/css/main.0d7de669.chunk.css.map": "/react-pizza-app/static/css/main.0d7de669.chunk.css.map",
     "static/js/2.1387ddc6.chunk.js.LICENSE.txt": "/react-pizza-app/static/js/2.1387ddc6.chunk.js.LICENSE.txt",
     "static/media/App.css": "/react-pizza-app/static/media/bg.38f4b351.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4f79ce3e.js",
     "static/js/2.1387ddc6.chunk.js",
-    "static/css/main.7ffafd39.chunk.css",
-    "static/js/main.f7aa392b.chunk.js"
+    "static/css/main.0d7de669.chunk.css",
+    "static/js/main.bd25c0a4.chunk.js"
   ]
 }
